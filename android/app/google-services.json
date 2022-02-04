@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382000033262",
+    "project_id": "helping-hands-170c7",
+    "storage_bucket": "helping-hands-170c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382000033262:android:e859475a76863de53db2ff",
+        "android_client_info": {
+          "package_name": "com.example.helpinghands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382000033262-k123r2r6cg4att9q279of8btl84vv092.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgKyUDskiCCFiuisDcEPD5c84-vOrHRmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382000033262-k123r2r6cg4att9q279of8btl84vv092.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
